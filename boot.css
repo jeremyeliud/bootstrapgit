@@ -1,0 +1,13 @@
+body{
+    margin-left: 80px;
+    margin-right: 80px;
+    background-image: url("img/wall.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+legend{
+    color: white;
+}
+button{
+    width: 100%;
+}
